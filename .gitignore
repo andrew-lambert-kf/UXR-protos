@@ -1,8 +1,13 @@
 KFTS Interactive Prototype.html
+KFTS Interactive Prototype _standalone_.html
 helloworld.html
 encrypted.bin
 encrypted.b64
+encrypted_v2.bin
+encrypted_v2.b64
+source_v2.html
 build_index.py
+build_wrapper.py
 serve.py
 .claude/
 .DS_Store
